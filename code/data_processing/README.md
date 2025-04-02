@@ -1,3 +1,7 @@
+| Item                   | Path                                              |
+|------------------------|---------------------------------------------------|
+| plink                  | /nfs/my/Huang/lzm/default/plink/plink             |
+
 plink.............../nfs/my/Huang/lzm/default/plink/plink  
 PopLDdecay........../nfs/my/Huang/lzm/default/PopLDdecay-3.42/bin/PopLDdecay  
 Plot_OnePop.plink...(perl) /nfs/my/Huang/lzm/default/PopLDdecay-3.42/bin/Plot_OnePop.pl  
