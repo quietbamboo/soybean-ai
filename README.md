@@ -76,6 +76,8 @@ The project contains the following folders and files:
 
 For questions or collaboration, feel free to reach out!
 
+🌐 Visit the project site: [https://soybean.starhelix.cn/](https://soybean.starhelix.cn/)
+
 ---
 
 > ⭐ If you find this project helpful, consider giving it a star!
