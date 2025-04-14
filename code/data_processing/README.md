@@ -9,15 +9,15 @@ This folder contains essential scripts for preprocessing SNP data, conducting GW
 
 | 工具名称 / Tool Name       | 使用路径 / Path                                                           |
 |----------------------------|---------------------------------------------------------------------------|
-| `plink`                    | `/nfs/my/Huang/lzm/default/plink/plink`                                  |
-| `PopLDdecay`               | `/nfs/my/Huang/lzm/default/PopLDdecay-3.42/bin/PopLDdecay`               |
-| `Plot_OnePop.plink`        | `/nfs/my/Huang/lzm/default/PopLDdecay-3.42/bin/Plot_OnePop.pl`           |
-| `admixture`                | `/nfs/my/Huang/lzm/admixture_linux-1.3.0/admixture`                      |
-| `S2_gemma.sh`              | `/nfs/my/Huang/lzm/soybean_C219/code/data_processing/S2_gemma.sh`        |
-| `S3_assoc2CMplot.R`        | `/nfs/my/Huang/lzm/soybean_C219/code/data_processing/S3_assoc2CMplot.R`  |
-| `S4_CMplot.R`              | `/nfs/my/Huang/lzm/soybean_C219/code/data_processing/S4_CMplot.R`        |
-| `S5_p_wald_filter.py`      | `/nfs/my/Huang/lzm/soybean_C219/code/data_processing/S5_p_wald_filter.py`|
-| `S6_p_wald_shap.py`        | `/nfs/my/Huang/lzm/soybean_C219/code/data_processing/S6_p_wald_shap.py`  |
+| `plink`                    | `/YourFilePath/plink/plink`                                  |
+| `PopLDdecay`               | `/YourFilePath/PopLDdecay-3.42/bin/PopLDdecay`               |
+| `Plot_OnePop.plink`        | `/YourFilePath/PopLDdecay-3.42/bin/Plot_OnePop.pl`           |
+| `admixture`                | `/YourFilePath/admixture_linux-1.3.0/admixture`                      |
+| `S2_gemma.sh`              | `/YourFilePath/soybean-ai/code/data_processing/S2_gemma.sh`        |
+| `S3_assoc2CMplot.R`        | `/YourFilePath/soybean-ai/code/data_processing/S3_assoc2CMplot.R`  |
+| `S4_CMplot.R`              | `/YourFilePath/soybean-ai/code/data_processing/S4_CMplot.R`        |
+| `S5_p_wald_filter.py`      | `/YourFilePath/soybean-ai/code/data_processing/S5_p_wald_filter.py`|
+| `S6_p_wald_shap.py`        | `/YourFilePath/soybean-ai/code/data_processing/S6_p_wald_shap.py`  |
 
 ---
 
