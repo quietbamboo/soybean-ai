@@ -5,6 +5,8 @@ A Novel Framework for Soybean Phenotype Prediction and Salient Loci Mining via M
 
 This project aims to predict soybean oil content, protein content, and water-soluble protein content based on Single Nucleotide Polymorphism (SNP) data using various machine learning (ML) and deep learning (DL) models. It also includes SHAP (SHapley Additive exPlanations) for model interpretability analysis, and performs GWAS (Genome-Wide Association Studies) analysis on the SNP data.
 
+![image](PCFigure1.png)
+
 ## Project Structure
 
 The project contains the following folders and files:
