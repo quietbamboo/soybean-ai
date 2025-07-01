@@ -1,5 +1,5 @@
 # soybean-ai
-A Novel Framework for Soybean Phenotype Prediction and Salient Loci Mining via Machine Learning and Interpretability Analysis
+A Framework for Soybean Phenotype Prediction and Salient Loci Mining via Machine Learning and Interpretability Analysis
 
 🌐 Project Website: [https://soybean.starhelix.cn/](https://soybean.starhelix.cn/)  
 We have deployed the prediction models on this website for easy access and use by users.
